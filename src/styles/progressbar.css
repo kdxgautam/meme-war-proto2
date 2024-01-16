@@ -1,0 +1,16 @@
+.progressbar {
+    display: flex;
+    width: 75%;
+    height: 35px;
+    margin-top: 15px;
+  }
+  
+  .user1Bar {
+    background-color: red;
+    height: 100%;
+  }
+  
+  .user2Bar {
+    background-color: blue;
+    height: 100%;
+  }
